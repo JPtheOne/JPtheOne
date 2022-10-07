@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm JP</h1>
-<h3 align="center">A passionate mexican programmer</h3>
+<h3 align="center">A passionate computer science student </h3>
+
 
 - 🌱 I’m currently learning **python and data structures**
 
