@@ -3,8 +3,7 @@
 
 
 - 🌱 I’m currently learning **python and data structures**
-
-<h3 align="left">Connect with me:</h3>
+ 
 <p align="left">
 </p>
 
