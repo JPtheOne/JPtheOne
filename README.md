@@ -2,9 +2,8 @@
 <h3 align="center">A passionate computer science student </h3>
 
 
-- 🌱 I’m currently learning ** NoSQL databases and revising OOP fundamentals**
+- 🌱 I’m currently learning **databases and revising OOP fundamentals**
  - 🔭 I’m currently working on **a database using NoSQL**
-
 - 👯 I’m looking to collaborate on **anything related to IT!**
  
 <p align="left">
