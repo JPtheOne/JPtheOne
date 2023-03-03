@@ -5,11 +5,7 @@
 
 - 🔭 I’m currently working on **a database using NoSQL**
 
-- 🌱 I’m currently learning **cloud computing.**
-
-- 👯 I’m looking to collaborate on **web development!**
-
-- 💬 Ask me about **my codes!**
+- 🌱 I’m currently learning **basics of software engineering**
 
 - 📫 How to reach me **juanpimod@gmail.com**
 
