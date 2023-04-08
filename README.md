@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jptheone" alt="jptheone" /></a> </p>
 
-- 🔭 I’m currently working on **a database using NoSQL**
+- 🔭 I’m currently working on **a database using SQLite**
 
-- 🌱 I’m currently learning **basics of software engineering**
+- 🌱 I’m currently learning **how to build a GUI using Tkinter**
 
 - 📫 How to reach me **juanpimod@gmail.com**
 
