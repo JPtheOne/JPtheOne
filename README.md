@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jptheone" alt="jptheone" /></a> </p>
 
-- 🔭 I’m currently working on **a JavaScript database **
+- 🔭 I’m currently working on **An inventory database**
 
 - 🌱 I’m currently learning **Ciphering algorithms**
 
