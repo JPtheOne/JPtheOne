@@ -3,9 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jptheone" alt="jptheone" /></a> </p>
 
-- 🔭 I’m currently working on **an ETL project**
+- 🔭 I’m currently working on **a JavaScript database **
 
-- 🌱 I’m currently learning **JavaScript's basics**
+- 🌱 I’m currently learning **Ciphering algorithms**
 
 - 📫 How to reach me **juanpimod@gmail.com**
 
